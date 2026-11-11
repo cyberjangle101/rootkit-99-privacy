@@ -14,16 +14,24 @@ Rootkit 99 is made by cyberjangle101. This policy explains what data the Android
 
 Nothing. Your progress, settings and scores, including your Daily Run results, are saved on your
 device. The game has no accounts, no analytics and no servers of its own. Uninstalling the app
-deletes your save.
+deletes the copy on your device (if you use Google Play Games, a backup is kept there: see below).
 
 ## Google Play Games (optional)
 
-If you use Google Play Games on your phone, it signs you in to the game automatically. The game then
-sends your achievement unlocks and your Quickplay and Daily Run scores to Google Play Games, which
-shows them on your Play Games profile and on public leaderboards under your Play Games name. Google
-handles this under its own privacy policy (https://policies.google.com/privacy); the game receives
-only whether you are signed in. If you don't use Play Games, nothing is sent and everything stays on
-your device. You can manage or delete your Play Games profile in the Google Play Games app.
+If you use Google Play Games on your phone, it signs you in to the game automatically. The game then:
+
+- sends your achievement unlocks and your Quickplay and Daily Run scores to Google Play Games, which
+  shows them on your Play Games profile and on public leaderboards under your Play Games name;
+- reads the top five scores on each Quickplay leaderboard (players' Play Games names and scores) to
+  show the worldwide board in the game, and reads which achievements you have already unlocked;
+- keeps a backup of your game progress (story stars, upgrades, credits, achievements and records) in
+  Saved Games in your Play Games account, so it comes back after a reinstall or on a new phone. Your
+  settings stay on the device.
+
+Google handles this under its own privacy policy (https://policies.google.com/privacy). The game
+itself receives only whether you are signed in, your saved progress and those leaderboard entries.
+If you don't use Play Games, nothing is sent and everything stays on your device. You can manage or
+delete your Play Games profile and the game's saved data in the Google Play Games app.
 
 ## Ads (Google AdMob)
 
@@ -45,6 +53,11 @@ You can also reset or delete your advertising ID in your Android settings (Googl
 "Support the developer" is a one-off purchase made through Google Play, which removes all ads. Google
 handles the payment; the game never sees your payment details. The game only asks Google Play whether
 your account owns the purchase, so it can keep ads switched off after a reinstall.
+
+## Ratings (Google Play)
+
+After a few wins the game may show Google Play's own rating card, once. Google Play shows and handles
+it; the game never sees whether you rated it or what you wrote.
 
 ## Children
 
