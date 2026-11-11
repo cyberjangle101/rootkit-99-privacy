@@ -1,6 +1,9 @@
-# Rootkit: 1999 privacy policy
+# Rootkit 99 site
 
-The privacy policy for the Rootkit: 1999 Android game, published at
-https://cyberjangle101.github.io/rootkit-99-privacy/.
+The public pages for the Rootkit 99 Android game, published with GitHub Pages:
 
-Questions about the policy or your data: open an issue here.
+- Home: https://cyberjangle101.github.io/rootkit-99-privacy/home/
+- Privacy policy: https://cyberjangle101.github.io/rootkit-99-privacy/ (the address Google Play links to)
+- Terms of service: https://cyberjangle101.github.io/rootkit-99-privacy/terms/
+
+Questions about the game, the policy or your data: open an issue here.

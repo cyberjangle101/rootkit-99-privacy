@@ -1,23 +1,33 @@
 ---
-title: "Rootkit: 1999 privacy policy"
+title: "Rootkit 99 privacy policy"
 ---
 
-# Rootkit: 1999 privacy policy
+[Home](home/) · **Privacy policy** · [Terms of service](terms/)
 
-_Last updated: 8 November 2026_
+# Rootkit 99 privacy policy
 
-Rootkit: 1999 is made by cyberjangle101. This policy explains what data the Android app uses and why.
+_Last updated: 11 November 2026_
+
+Rootkit 99 is made by cyberjangle101. This policy explains what data the Android app uses and why.
 
 ## What the game itself collects
 
-Nothing. Your progress, settings and scores, including your Daily Run results, are saved only on
-your device. The Daily Run gives every player the same board each day, but scores are not uploaded
-and there is no online leaderboard. The game has no accounts, no analytics and no servers of its own.
-Uninstalling the app deletes your save.
+Nothing. Your progress, settings and scores, including your Daily Run results, are saved on your
+device. The game has no accounts, no analytics and no servers of its own. Uninstalling the app
+deletes your save.
+
+## Google Play Games (optional)
+
+If you use Google Play Games on your phone, it signs you in to the game automatically. The game then
+sends your achievement unlocks and your Quickplay and Daily Run scores to Google Play Games, which
+shows them on your Play Games profile and on public leaderboards under your Play Games name. Google
+handles this under its own privacy policy (https://policies.google.com/privacy); the game receives
+only whether you are signed in. If you don't use Play Games, nothing is sent and everything stays on
+your device. You can manage or delete your Play Games profile in the Google Play Games app.
 
 ## Ads (Google AdMob)
 
-The free version shows one full-screen ad after every three finished games. Ads are provided by
+The free version shows one full-screen ad after every two games. Ads are provided by
 Google AdMob. To show and measure ads, Google may collect your device's advertising ID, your
 approximate location (from your IP address), and information about your device and how you interact
 with ads. In the EEA, UK and Switzerland the app asks for your consent before personalised ads are
@@ -38,7 +48,7 @@ your account owns the purchase, so it can keep ads switched off after a reinstal
 
 ## Children
 
-Rootkit: 1999 is not directed at children under 13.
+Rootkit 99 is not directed at children under 13.
 
 ## Changes and contact
 
