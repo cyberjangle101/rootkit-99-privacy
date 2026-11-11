@@ -54,6 +54,11 @@ You can also reset or delete your advertising ID in your Android settings (Googl
 handles the payment; the game never sees your payment details. The game only asks Google Play whether
 your account owns the purchase, so it can keep ads switched off after a reinstall.
 
+## Ratings (Google Play)
+
+After a few wins the game may show Google Play's own rating card, once. Google Play shows and handles
+it; the game never sees whether you rated it or what you wrote.
+
 ## Children
 
 Rootkit 99 is not directed at children under 13.
