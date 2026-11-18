@@ -6,7 +6,7 @@ title: "Rootkit 99 privacy policy"
 
 # Rootkit 99 privacy policy
 
-_Last updated: 11 November 2026_
+_Last updated: 18 November 2026_
 
 Rootkit 99 is made by cyberjangle101. This policy explains what data the Android app uses and why.
 
@@ -24,9 +24,9 @@ If you use Google Play Games on your phone, it signs you in to the game automati
   shows them on your Play Games profile and on public leaderboards under your Play Games name;
 - reads the top five scores on each Quickplay leaderboard (players' Play Games names and scores) to
   show the worldwide board in the game, and reads which achievements you have already unlocked;
-- keeps a backup of your game progress (story stars, upgrades, credits, achievements and records) in
-  Saved Games in your Play Games account, so it comes back after a reinstall or on a new phone. Your
-  settings stay on the device.
+- keeps a backup of your game progress (story stars, upgrades, credits, operator rank, login streak,
+  achievements and records) in Saved Games in your Play Games account, so it comes back after a
+  reinstall or on a new phone. Your settings stay on the device.
 
 Google handles this under its own privacy policy (https://policies.google.com/privacy). The game
 itself receives only whether you are signed in, your saved progress and those leaderboard entries.
@@ -43,10 +43,22 @@ shown, and you can change your choice at any time in **SETTINGS > AD PRIVACY**. 
 decides whether ads are personalised: if you decline, you still see ads, but they are not based on
 your data. The only way to remove ads is the "Support the developer" purchase below.
 
+You can also choose to watch a short video ad for an in-game reward: restoring a run you just lost,
+or doubling the credits a run earned. These ads only play when you tap a button that says an ad will
+play, and they are handled by Google AdMob in the same way as above. Supporters get the restore without
+an ad.
+
 Google's use of this data is covered by Google's own privacy policy:
 https://policies.google.com/technologies/partner-sites
 
 You can also reset or delete your advertising ID in your Android settings (Google > Ads).
+
+## Daily reminder (optional)
+
+If you turn on **SETTINGS > REMINDER**, the app asks Android for permission to show notifications and
+schedules one reminder a day on your device, at the time you pick, only on days you have not played yet.
+It is created and shown entirely on your phone: nothing is sent anywhere. Turn it off in the same
+setting, or block the app's notifications in your Android settings.
 
 ## Purchases (Google Play)
 
