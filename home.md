@@ -20,8 +20,7 @@ it hop by hop until you can BLOCK its origin.
 - 13 achievements and cloud save through Google Play Games, so your progress follows you to a new
   phone. Plays offline; Google Play Games is optional.
 
-Rootkit 99 is free on Google Play, with a short ad every two games and a one-off "Support the
-developer" purchase that removes every ad.
+Rootkit 99 is free on Google Play, with a short ad every two games and no in-app purchases.
 
 ## About
 
