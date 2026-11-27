@@ -7,7 +7,7 @@ permalink: /terms/
 
 # Rootkit 99 terms of service
 
-_Last updated: 11 November 2026_
+_Last updated: 27 November 2026_
 
 These terms cover your use of Rootkit 99, an Android game made by cyberjangle101. By installing or
 playing the game you agree to them.
@@ -27,11 +27,8 @@ be removed from the leaderboards.
 
 ## Google services
 
-Ads, the "Support the developer" purchase and Google Play Games are provided by Google, under
-Google's own terms (https://policies.google.com/terms) and, for purchases, the Google Play Terms of
-Service (https://play.google.com/about/play-terms/). Payments and refunds are handled by Google Play
-under its refund policy. The purchase removes ads from the game on your Google Play account; it does
-not buy any other content.
+Ads and Google Play Games are provided by Google, under Google's own terms
+(https://policies.google.com/terms). The game has no in-app purchases.
 
 ## Your data
 

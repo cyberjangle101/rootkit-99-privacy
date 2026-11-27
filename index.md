@@ -6,7 +6,7 @@ title: "Rootkit 99 privacy policy"
 
 # Rootkit 99 privacy policy
 
-_Last updated: 18 November 2026_
+_Last updated: 27 November 2026_
 
 Rootkit 99 is made by cyberjangle101. This policy explains what data the Android app uses and why.
 
@@ -41,12 +41,11 @@ approximate location (from your IP address), and information about your device a
 with ads. In the EEA, UK and Switzerland the app asks for your consent before personalised ads are
 shown, and you can change your choice at any time in **SETTINGS > AD PRIVACY**. This choice only
 decides whether ads are personalised: if you decline, you still see ads, but they are not based on
-your data. The only way to remove ads is the "Support the developer" purchase below.
+your data. The app has no in-app purchases.
 
 You can also choose to watch a short video ad for an in-game reward: restoring a run you just lost,
 or doubling the credits a run earned. These ads only play when you tap a button that says an ad will
-play, and they are handled by Google AdMob in the same way as above. Supporters get the restore without
-an ad.
+play, and they are handled by Google AdMob in the same way as above.
 
 Google's use of this data is covered by Google's own privacy policy:
 https://policies.google.com/technologies/partner-sites
@@ -59,12 +58,6 @@ If you turn on **SETTINGS > REMINDER**, the app asks Android for permission to s
 schedules one reminder a day on your device, at the time you pick, only on days you have not played yet.
 It is created and shown entirely on your phone: nothing is sent anywhere. Turn it off in the same
 setting, or block the app's notifications in your Android settings.
-
-## Purchases (Google Play)
-
-"Support the developer" is a one-off purchase made through Google Play, which removes all ads. Google
-handles the payment; the game never sees your payment details. The game only asks Google Play whether
-your account owns the purchase, so it can keep ads switched off after a reinstall.
 
 ## Ratings (Google Play)
 
